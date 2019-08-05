@@ -37,10 +37,7 @@ Optional fields:
 `git clone https://github.com/sxiii/oldhack`
 
 # Example project
-* http://oldhack.ml
-* http://oldhack.cf
-* http://oldhack.gq
-* http://oldhack.ga
+*
 
 # ToDo / Help needed
 * Implement registration and ads editing
